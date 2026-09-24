@@ -1,4 +1,4 @@
-# Laboratorio #4 — CRUD en C# con Conexión a MySQL y Manejo Binario de Imágenes
+# Laboratorio #4 — Introducción a Base de Datos con MySQL
 
 Aplicación de escritorio para la gestión de un inventario de productos, con persistencia en MySQL y almacenamiento de imágenes como datos binarios, en C# y .NET 10.
 
