@@ -6,7 +6,7 @@ Aplicación de escritorio para la gestión de un inventario de productos, con pe
 Herramientas de Programación Aplicada III (.Net) · Grupo 1IL133 · II Semestre 2026
 
 - **Estudiante:** Diego Sanjur
-- **Facilitadora:** Ing. Irina Fong
+- **Facilitadora:** Irina Fong
 
 ---
 
